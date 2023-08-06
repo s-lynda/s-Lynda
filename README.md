@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Lynda SAYOUD</h1>
 <h3 align="center">A passionate frontend developer and AI enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fgeometric-animations-171119-gif-processing-creative-coding-art-everyday-geometry-httpifttt2zwg0ub--71072500353753777%2F&psig=AOvVaw2Jq_qad3kd0bW7qTkAtdrE&ust=1691423126959000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjbk8CwyIADFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/1GXscwXqrRytKHY86">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-lynda&label=Profile%20views&color=0e75b6&style=flat" alt="s-lynda" /> </p>
 
