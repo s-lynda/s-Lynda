@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Lynda SAYOUD</h1>
 <h3 align="center">A passionate frontend developer and AI enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/1GXscwXqrRytKHY86">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/8JIk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-lynda&label=Profile%20views&color=0e75b6&style=flat" alt="s-lynda" /> </p>
 
