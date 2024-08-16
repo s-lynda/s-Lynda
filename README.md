@@ -35,7 +35,8 @@ Welcome to my GitHub! I’m passionate about frontend development and deeply int
 </a>
   
   <!--![Lynda's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-lynda&show_icons=true&theme=radical)-->
-
-<a href="http://www.github.com/s-lynda"><img src="https://github-readme-streak-stats.herokuapp.com/?user=s-lynda&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/s-lynda">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=s-lynda&theme=dark&hide_border=false" />
+</a>
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-lynda&layout=compact)-->
