@@ -26,6 +26,7 @@ Welcome to my GitHub! I’m passionate about frontend development and deeply int
 
 # 📊 GitHub Stats:
 
+ <div style="display: flex; justify-content: space-between; gap: 10px;">
   <!-- GitHub Stats Card -->
   <a href="http://www.github.com/s-lynda">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s-lynda&show_icons=true&theme=radical&hide_border=true" />
@@ -35,6 +36,8 @@ Welcome to my GitHub! I’m passionate about frontend development and deeply int
   <a href="http://www.github.com/s-lynda">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-lynda&layout=compact&langs_count=8&hide_border=true&theme=radical" />
   </a>
+</div>
+
   <!-- GitHub Streak Stats Card -->
   <a href="http://www.github.com/s-lynda">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-lynda&theme=radical&hide_border=true" />
