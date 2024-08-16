@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Passionate | AI Enthusiast
 -----------------------------------
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=s-lynda&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="s-lynda" /> 
+  <img src="https://komarev.com/ghpvc/?username=s-lynda&label=Profile%20views&color=1c6ea4&style=flat" alt="s-lynda" /> 
 </p>
 
 
