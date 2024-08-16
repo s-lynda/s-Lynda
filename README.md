@@ -26,17 +26,18 @@ Welcome to my GitHub! I’m passionate about frontend development and deeply int
 
 # 📊 GitHub Stats:
 
- <div style="display: flex; justify-content: space-between; gap: 10px;">
+<div align="center">
   <!-- GitHub Stats Card -->
   <a href="http://www.github.com/s-lynda">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s-lynda&show_icons=true&theme=radical&hide_border=true" />
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=s-lynda&show_icons=true&theme=radical&hide_border=true" />
   </a>
   
   <!-- Most Used Languages Card -->
   <a href="http://www.github.com/s-lynda">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-lynda&layout=compact&langs_count=8&hide_border=true&theme=radical" />
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-lynda&layout=compact&langs_count=8&hide_border=true&theme=radical" />
   </a>
 </div>
+
 
   <!-- GitHub Streak Stats Card -->
   <a href="http://www.github.com/s-lynda">
