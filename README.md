@@ -27,46 +27,25 @@ Welcome to my GitHub! I’m passionate about frontend development and deeply int
 <p align="left"> <a href="https://discord.com/users/lyndasyd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/s-lynda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/lynda-sayoud-b97098204/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 # 📊 GitHub Stats:
-<a href="http://www.github.com/s-lynda">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=s-lynda&show_icons=true&theme=radical" />
-</a>
-<a href="http://www.github.com/s-lynda">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-lynda&layout=compact&langs_count=8&card_width=320" />
-</a>
+
+  <!-- GitHub Stats Card -->
+  <a href="http://www.github.com/s-lynda">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s-lynda&show_icons=true&theme=radical&hide_border=true" />
+  </a>
   
+  <!-- Most Used Languages Card -->
+  <a href="http://www.github.com/s-lynda">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-lynda&layout=compact&langs_count=8&hide_border=true&theme=radical" />
+  </a>
+  <!-- GitHub Streak Stats Card -->
+  <a href="http://www.github.com/s-lynda">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-lynda&theme=radical&hide_border=true" />
+  </a>
+  
+
   <!--![Lynda's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-lynda&show_icons=true&theme=radical)-->
-<a href="http://www.github.com/s-lynda">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=s-lynda&theme=dark&hide_border=false" />
-</a>
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-lynda&layout=compact)-->
 
-# H: 
-<!-- Center-align the GitHub Stats Section with Improved Layout -->
-<div align="center">
-
-  <!-- GitHub Stats and Most Used Languages Side by Side -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-
-    <!-- GitHub Stats Card -->
-    <a href="http://www.github.com/s-lynda">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s-lynda&show_icons=true&theme=radical&hide_border=true&border_radius=10px" />
-    </a>
-
-    <!-- Most Used Languages Card -->
-    <a href="http://www.github.com/s-lynda">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-lynda&layout=compact&langs_count=8&hide_border=true&theme=radical&border_radius=10px" />
-    </a>
-
-  </div>
-
-  <!-- GitHub Streak Stats Card Below -->
-  <div style="margin-top: 20px;">
-    <a href="http://www.github.com/s-lynda">
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-lynda&theme=radical&hide_border=true&border_radius=10px" />
-    </a>
-  </div>
-
-</div>
 
 
