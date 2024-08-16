@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Frontend Passionate | AI Enthusiast
 -----------------------------------
+[![](https://visitcount.itsvg.in/api?id=s-lynda&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 Welcome to my GitHub! I’m passionate about frontend development and deeply interested in AI, especially in the realm of computer vision.
 
