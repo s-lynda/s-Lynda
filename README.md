@@ -27,11 +27,14 @@ Welcome to my GitHub! I’m passionate about frontend development and deeply int
 <p align="left"> <a href="https://discord.com/users/lyndasyd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/s-lynda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/lynda-sayoud-b97098204/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 # 📊 GitHub Stats:
-
+<a href="http://www.github.com/s-lynda">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=s-lynda&show_icons=true&theme=radical" />
-
+</a>
+<a href="http://www.github.com/s-lynda">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-lynda&layout=compact&langs_count=8&card_width=320" />
-<!--![Lynda's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-lynda&show_icons=true&theme=radical)-->
+</a>
+  
+  <!--![Lynda's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-lynda&show_icons=true&theme=radical)-->
 
 <a href="http://www.github.com/s-lynda"><img src="https://github-readme-streak-stats.herokuapp.com/?user=s-lynda&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
