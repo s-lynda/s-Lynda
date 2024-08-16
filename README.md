@@ -42,24 +42,31 @@ Welcome to my GitHub! I’m passionate about frontend development and deeply int
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-lynda&layout=compact)-->
 
 # H: 
-
-<!-- Center-align the GitHub Stats Section -->
+<!-- Center-align the GitHub Stats Section with Improved Layout -->
 <div align="center">
 
-  <!-- GitHub Stats Card -->
-  <a href="http://www.github.com/s-lynda">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s-lynda&show_icons=true&theme=radical&hide_border=true" />
-  </a>
-  
-  <!-- Most Used Languages Card -->
-  <a href="http://www.github.com/s-lynda">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-lynda&layout=compact&langs_count=8&hide_border=true&theme=radical" />
-  </a>
-  
-  <!-- GitHub Streak Stats Card -->
-  <a href="http://www.github.com/s-lynda">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-lynda&theme=radical&hide_border=true" />
-  </a>
-  
+  <!-- GitHub Stats and Most Used Languages Side by Side -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+    <!-- GitHub Stats Card -->
+    <a href="http://www.github.com/s-lynda">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s-lynda&show_icons=true&theme=radical&hide_border=true&border_radius=10px" />
+    </a>
+
+    <!-- Most Used Languages Card -->
+    <a href="http://www.github.com/s-lynda">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-lynda&layout=compact&langs_count=8&hide_border=true&theme=radical&border_radius=10px" />
+    </a>
+
+  </div>
+
+  <!-- GitHub Streak Stats Card Below -->
+  <div style="margin-top: 20px;">
+    <a href="http://www.github.com/s-lynda">
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-lynda&theme=radical&hide_border=true&border_radius=10px" />
+    </a>
+  </div>
+
 </div>
+
 
