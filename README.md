@@ -3,7 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Frontend Passionate | AI Enthusiast
 -----------------------------------
-[![](https://visitcount.itsvg.in/api?id=s-lynda&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=s-lynda&label=Profile%20Views&color=1&icon=0&pretty=false)].
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-lynda&label=Profile%20views&color=0e75b6&style=flat" alt="s-lynda" /> </p>
+
 
 Welcome to my GitHub! I’m passionate about frontend development and deeply interested in AI, especially in the realm of computer vision.
 
