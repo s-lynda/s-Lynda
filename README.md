@@ -38,12 +38,12 @@ Welcome to my GitHub! I’m passionate about frontend development and deeply int
   </a>
 </div>
 
-
+<div align="center" style="margin-top: 20px;">
   <!-- GitHub Streak Stats Card -->
   <a href="http://www.github.com/s-lynda">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-lynda&theme=radical&hide_border=true" />
   </a>
-  
+</div>
 
   <!--![Lynda's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-lynda&show_icons=true&theme=radical)-->
 
