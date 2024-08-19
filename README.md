@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Lynda+SAYOUD;Welcome+to+my+profile!" alt="Title"></img>
 </div>
-<p><b>Frontend Passionate | AI Enthusiast</b></p>
+<p><b> WebDev Passionate | AI Enthusiast</b></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-lynda&label=Profile%20views&color=8caaee&style=for-the-badge" alt="dexprexxtion's profile views" /> </p>
 
