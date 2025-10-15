@@ -11,7 +11,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 * 👋🏻 I'm **Lynda SAYOUD**.
 * ✉️  You can contact me at [sayoudlynda1@gmail.com](mailto:sayoudlynda1@gmail.com)
-* 🧠  I'm learning React JS.
 * 🤝  I'm open to collaborating on **Projects**.
 * I’m passionate about **frontend** development and deeply interested in **AI**, especially in the realm of **computer vision**.
 
